@@ -4,3 +4,4 @@
 💻 
 
 En este repositorio se encuentran los proyectos del apartado de "Responsive web design" de Free codecamp. 
+Todos realizados simplemente para aprender y practicar y sin ánimo de lucro
